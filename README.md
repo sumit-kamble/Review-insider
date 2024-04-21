@@ -23,5 +23,19 @@ Review Insider provides users with the ability to input Amazon product reviews a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/review-insider.git
+git clone https://github.com/sumit-kamble/Review-insider.git
 ```
+
+2. Install Node.js dependencies
+
+```cd review-insider
+npm install
+```
+
+3. Run the application
+
+```cd review-insider
+npm start
+```
+
+4.  Navigate to `http://localhost:3000` in your web browser.
