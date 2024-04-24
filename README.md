@@ -42,11 +42,11 @@ npm start
 
 ## Results
 
-![Image 1](../app/assets/product-list.jpg)
+![Image 1](https://github.com/sumit-kamble/Review-insider/blob/main/assets/product-list.jpg?raw=true)
 _Product list_
 
-![Image 2](../app/assets/example-1.jpg)
+![Image 2](https://github.com/sumit-kamble/Review-insider/blob/main/assets/example-1.jpg?raw=true)
 _Example 1_
 
-![Image 3](../app/assets/example-2.jpg)
+![Image 3](https://github.com/sumit-kamble/Review-insider/blob/main/assets/example-2.jpg?raw=true)
 _Example 2_
