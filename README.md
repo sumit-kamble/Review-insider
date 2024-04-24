@@ -39,3 +39,14 @@ npm start
 ```
 
 4.  Navigate to `http://localhost:3000` in your web browser.
+
+## Results
+
+![Image 1](../app/assets/product-list.jpg)
+_Product list_
+
+![Image 2](../app/assets/example-1.jpg)
+_Example 1_
+
+![Image 3](../app/assets/example-2.jpg)
+_Example 2_
